@@ -44,12 +44,24 @@
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+	These cards highlight my total commits, repositories, stars, issues, and pull request activity, along with the languages I use most.
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mshsabbirbd20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshsabbirbd20&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
+<table align="center">
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=mshsabbirbd20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Contribution%20Stats" alt="GitHub stats" height="180" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshsabbirbd20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="180" />
+		</td>
+	</tr>
+</table>
 
-</div>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshsabbirbd20&repo=mshsabbirbd20&theme=tokyonight&hide_border=true" alt="Pinned profile repo card" />
+</p>
 
 ## Contribution Highlights
 
